@@ -1,0 +1,20 @@
+Install React Navigation dependencies in your Expo managed project.
+
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npx expo install react-native-gesture-handler
+npx expo install react-native-reanimated
+npx expo install expo-system-ui
+ 
+npm install @react-navigation/bottom-tabs
+npm install @react-navigation/native-stack
+npm install @react-navigation/drawer
+npm install @react-navigation/material-top-tabs
+npx expo install react-native-pager-view
+
+
+VIDEOS
+1. React Navigation Tutorial for Beginners - Complex Navigation Flows with React Native : https://www.youtube.com/watch?v=QpfAyQgphgw&ab_channel=CodewithBeto
+2. Welcome, Signup, Login Screen | React Native UI - https://www.youtube.com/watch?v=pI4hMSoU7f0&ab_channel=Flaira
+3. Build a Realtime Chat App with React Native and Firebase | Tutorial 2023 - https://www.youtube.com/watch?v=Ov3Z3vD5zFw
+4. Firebase - https://www.youtube.com/watch?v=9zdvmgGsww0&list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb&index=1&ab_channel=NetNinja
